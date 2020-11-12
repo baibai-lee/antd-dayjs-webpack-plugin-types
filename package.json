@@ -1,0 +1,17 @@
+{
+  "name": "@types/antd-dayjs-webpack-plugin",
+  "version": "0.0.1",
+  "description": "TypeScript definitions for antd-dayjs-webpack-plugin",
+  "license": "MIT",
+  "main": "",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "@types/webpack": "^4.41.24"
+  }
+}
